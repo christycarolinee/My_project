@@ -1,5 +1,5 @@
 #
-# output test
+# Output test
 # Christy
 #
 
