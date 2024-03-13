@@ -20,4 +20,3 @@ while True:
     # 3. Output 
     print (f'Result: {sum}')
 
-    
