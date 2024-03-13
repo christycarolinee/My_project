@@ -17,7 +17,7 @@ while True:
     elif op == '-':
         sum = int(x1) - int(x2) 
 
-    # 3. output 
+    # 3. Output 
     print (f'Result: {sum}')
 
     
