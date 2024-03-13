@@ -1,5 +1,5 @@
 #
-# 0utput process
+# Output process
 # Christy
 #
 
