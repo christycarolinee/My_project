@@ -1,7 +1,4 @@
-#
-# output test
-# christy
-#
+
 
 # 1. Input 
 x1 = input('type x1: ')
