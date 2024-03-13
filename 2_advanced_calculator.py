@@ -4,9 +4,9 @@
 #
 
 # 1. Input 
-x1 = input('type x1: ')
-x2 = input('type x2: ')
-op = input('operator: ')
+x1 = input('Type x1: ')
+x2 = input('Type x2: ')
+op = input('Operator: ')
 
 
 # 2. Process
@@ -17,4 +17,4 @@ elif op == '-':
 
 
 # 3. output 
-print (f'result: {sum}')
+print (f'Result: {sum}')
