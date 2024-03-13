@@ -1,7 +1,7 @@
 #
 # output test
 # Christy
-
+#
 
 # 1. Input 
 x1 = input('type x1: ')
