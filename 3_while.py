@@ -5,7 +5,7 @@
 
 sum = 0
 
-while True :
+while True:
     # 1. Input 
     x1 = input('Type x1: ')
     x2 = input('Type x2: ')
