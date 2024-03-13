@@ -1,3 +1,8 @@
+#
+# output test
+# Christy
+
+
 # 1. Input 
 x1 = input('type x1: ')
 x2 = input('type x2: ')
