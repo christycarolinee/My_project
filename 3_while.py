@@ -23,7 +23,7 @@ while True:
     print (f'Result: {sum}')
 
 
-    option = input('Do you want to continue?')
+    option = input('Do you want to continue or stop?')
     if option == 'c' :
                 continue
     else:
