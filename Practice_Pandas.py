@@ -22,4 +22,5 @@ print(my_data)
 my_data.loc[7,'Duration'] = 45
 print(my_data)
 
+print('Christy')
 print(my_data.corr())
