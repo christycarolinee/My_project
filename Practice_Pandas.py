@@ -4,6 +4,7 @@
 #
 
 import pandas as pd 
+import matplotlib.pyplot as plt
 
 my_data = pd.read_csv("Data.csv")
 
@@ -24,3 +25,11 @@ print(my_data)
 
 print('Christy')
 print(my_data.corr())
+
+my_data.plot(kind = "line")
+
+plt.title('Christy')
+plt.show()
+
+
+
