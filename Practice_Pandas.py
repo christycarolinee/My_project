@@ -21,3 +21,5 @@ print(my_data)
 # fix typo
 my_data.loc[7,'Duration'] = 45
 print(my_data)
+
+print(my_data.corr())
