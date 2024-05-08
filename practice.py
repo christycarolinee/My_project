@@ -35,3 +35,15 @@ df['Outcome'].value_counts()
 df['Outcome'].value_counts(sort=False)
 df['Outcome'].value_counts(normalize=True)
 
+df.groupby('Outcome').mean()
+df.groupby('Outcome').max()
+df.groupby('Outcome').min()
+df.groupby('Outcome').var()
+
+#divide by group
+df.groupby(['Pregnancies', 'Outcome']).mean()
+
+#draw the chart plot line
+df[['BMI', 'Glucose']].plot.line()
+plt.show()
+
